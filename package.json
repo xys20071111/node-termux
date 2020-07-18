@@ -1,0 +1,26 @@
+{
+  "name": "termux",
+  "version": "0.1.0",
+  "description": "A Web interface for access Termux:API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xys20071111/node-termux.git"
+  },
+  "keywords": [
+    "interface",
+    "termux"
+  ],
+  "author": "xys20071111",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xys20071111/node-termux/issues"
+  },
+  "homepage": "https://github.com/xys20071111/node-termux#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
